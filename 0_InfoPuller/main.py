@@ -46,3 +46,7 @@ pokemon_type = pokemon.get_pokemon_type()
 
 #print(pokemon_info)
 #print(pokemon_type)
+
+# https://github.com/smogon/pokemon-showdown - Pokemon Showdown
+# https://github.com/smogon/damage-calc - Damage Calculator
+# https://github.com/PokeAPI/pokeapi - PokeAPI
